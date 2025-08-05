@@ -61,11 +61,13 @@ A futuristic plant wrapper that auto-adjusts environmental conditions for housep
 
 ## 📽️ Video Previews
 
-| Video | Preview |
-|-------|---------|
-| 🎬 Intro Video | ![Watch on YouTube](https://youtu.be/1apAmKGkQTQ) |
-| 📱 Instagram Ad | ![Watch on YouTube](https://youtube.com/shorts/YXkjs_wFjGY?feature=share) |
-| ▶️ YouTube Ad | ![Watch on YouTube](https://youtu.be/0k4uOVLkfuQ) |
+
+| Video           | Preview                                |
+|----------------|-----------------------------------------|
+| 🎬 Intro Video  | [Watch on YouTube](https://youtu.be/1apAmKGkQTQ)      |
+| 📱 Instagram Ad | [Watch on YouTube](https://youtube.com/shorts/YXkjs_wFjGY?feature=share) |
+| ▶️ YouTube Ad   | [Watch on YouTube](https://youtu.be/0k4uOVLkfuQ)      |
+
 
 ---
 
