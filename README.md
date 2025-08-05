@@ -53,7 +53,7 @@ A futuristic plant wrapper that auto-adjusts environmental conditions for housep
 
 > ✨ This landing page was generated with **a single prompt** using a generative AI tool.
 
-![Landing Page Screenshot](./landing-page/landing-page-screenshot.png)
+![Landing Page Screenshot](./screenshot/landing-page.png)
 
 ➡️ You can view the source code of the landing page in the `landing-page/` folder.
 
@@ -63,9 +63,9 @@ A futuristic plant wrapper that auto-adjusts environmental conditions for housep
 
 | Video | Preview |
 |-------|---------|
-| 🎬 Intro Video | [![Watch on YouTube](./thumbnails/intro-video-thumbnail.png)](https://youtu.be/1apAmKGkQTQ) |
-| 📱 Instagram Ad | [![Watch on YouTube](./thumbnails/insta-ad-thumbnail.png)](https://youtube.com/shorts/YXkjs_wFjGY?feature=share) |
-| ▶️ YouTube Ad | [![Watch on YouTube](./thumbnails/youtube-ad-thumbnail.png)](https://youtu.be/0k4uOVLkfuQ) |
+| 🎬 Intro Video | [![Watch on YouTube](./screenshot/plantwrap.png)](https://youtu.be/1apAmKGkQTQ) |
+| 📱 Instagram Ad | [![Watch on YouTube](./screenshot/insta_ad.png)](https://youtube.com/shorts/YXkjs_wFjGY?feature=share) |
+| ▶️ YouTube Ad | [![Watch on YouTube](./screenshot/insta_ad.png)](https://youtu.be/0k4uOVLkfuQ) |
 
 ---
 
