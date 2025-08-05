@@ -28,9 +28,9 @@ A futuristic plant wrapper that auto-adjusts environmental conditions for housep
 
 🔗 [**Click here to view the landing page**](https://sakshi-singh17.github.io/plantwrap-landing-page/)
 
-> 💡 Replace this with your actual deployed link (e.g., Vercel, GitHub Pages)
-
 ---
+
+
 
 ## 📁 Folder Structure
 
@@ -56,6 +56,16 @@ A futuristic plant wrapper that auto-adjusts environmental conditions for housep
 ![Landing Page Screenshot](./landing-page/landing-page-screenshot.png)
 
 ➡️ You can view the source code of the landing page in the `landing-page/` folder.
+
+---
+
+## 📽️ Video Previews
+
+| Video | Preview |
+|-------|---------|
+| 🎬 Intro Video | [![Watch on YouTube](./thumbnails/intro-video-thumbnail.png)](https://youtu.be/1apAmKGkQTQ) |
+| 📱 Instagram Ad | [![Watch on YouTube](./thumbnails/insta-ad-thumbnail.png)](https://youtube.com/shorts/YXkjs_wFjGY?feature=share) |
+| ▶️ YouTube Ad | [![Watch on YouTube](./thumbnails/youtube-ad-thumbnail.png)](https://youtu.be/0k4uOVLkfuQ) |
 
 ---
 
